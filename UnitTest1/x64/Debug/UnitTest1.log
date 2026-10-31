@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Admin\source\repos\KURS2\lab2_7\lab2_7\Money.cpp(10,23): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Admin\source\repos\KURS2\lab2_7\lab2_7\Money.cpp(51,14): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Admin\source\repos\KURS2\lab2_7\lab2_7\Money.cpp(52,14): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\Admin\source\repos\KURS2\lab2_7\x64\Debug\UnitTest1.lib and object C:\Users\Admin\source\repos\KURS2\lab2_7\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\source\repos\KURS2\lab2_7\x64\Debug\UnitTest1.dll
